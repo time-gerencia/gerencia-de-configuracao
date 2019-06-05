@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-sDuYPXzaCtWgsFfhgzfeyg" name="equipe_de_modelagem,_umLskFGwEem7auw6ruu6PQ" guid="-sDuYPXzaCtWgsFfhgzfeyg" changeDate="2019-04-06T13:16:08.775-0300">
+  <mainDescription>A equipe de modelagem é composta de membros permanentes das áreas do domínio do negócio e de desenvolvimento,&#xD;
+especificamente os especialistas no domínio e os programadores líderes.</mainDescription>
+</org.eclipse.epf.uma:RoleDescription>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-oiPBp9ymyi-dAMUUakVY7w" name=",_cae-UFiZEemAC7bsSm7g_g" guid="-oiPBp9ymyi-dAMUUakVY7w" changeDate="2019-04-06T13:43:01.343-0300">
+  <mainDescription>O cliente deve observar os pontos da avaliação e fornecer a sua aprovação do modelo. Caso o mesmo seja aprovado, o cliente&#xD;
+irá resaltar alguns pontos que devem ser avalisados com mais cautela, caso contrário deverá esclarecer e a equipe voltará a&#xD;
+desenvolver o modelo.</mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Gr0ly3jnBR16xC2BPV6SNg" name=",_NZPXQFiaEemAC7bsSm7g_g" guid="-Gr0ly3jnBR16xC2BPV6SNg" changeDate="2019-04-06T16:06:21.547-0300">
+  <mainDescription>Realiza-se uma inspeção no projeto (design) com os membros da equipe de funcionalidades ou com outros membros do projeto. A&#xD;
+decisão de inspecionar com a equipe de funcionalidades ou com outros membros do projeto cabe ao programador líder. O&#xD;
+programador líder também deve&lt;br />&#xD;
+combinar as alterações da área compartilhada pela equipe de funcionalidades de volta ao sistema de controle de versões.</mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

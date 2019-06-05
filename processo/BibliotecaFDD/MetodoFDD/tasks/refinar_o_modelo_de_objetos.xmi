@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-JNvt2WfKMrEvH8X-lVzh5w" name=",_DdWV4FiaEemAC7bsSm7g_g" guid="-JNvt2WfKMrEvH8X-lVzh5w" changeDate="2019-04-06T16:04:00.850-0300">
+  <mainDescription>O programador líder cria uma área para a equipe de funcionalidades para a(s) funcionalidade(s). Esta área pode ser um&#xD;
+diretório em um servidor de arquivos ou um diretório em seus próprios computadores, que são copiados para o servidor pelo&#xD;
+programador líder quando necessário, ou utiliza-se uma área de trabalho fornecida pelo sistema de controle de versões. O&#xD;
+propósito da área da equipe de funcionalidades é para que o trabalho em andamento possa ser compartilhado e estar visível&#xD;
+pelos membros da equipe de funcionalidades, mas invisível para o resto do projeto.&lt;br />&#xD;
+O programador líder refina o modelo para adicionar novas classes, métodos, atributos e/ou fazer alterações aos já&#xD;
+existentes, baseado no(s) diagrama(s) de seqüência definido(s) para a(s) funcionalidade(s). Isto resulta na atualização dos&#xD;
+arquivos fontes da linguagem de implementação na área da equipe de funcionalidades. O programador líder cria diagramas do&#xD;
+modelo num formato publicável. Esses arquivos devem ser submetidos ao sistema de controle de versões e publicados na&#xD;
+intranet do projeto.</mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

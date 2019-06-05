@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-wO_bcqXswWTQf-VHZOTt8A" name=",_e8VQAFiZEemAC7bsSm7g_g" guid="-wO_bcqXswWTQf-VHZOTt8A" changeDate="2019-04-06T13:48:56.740-0300">
+  <mainDescription>O cliente deve resaltar pontos importas para o projeto, para que assim a equipe possa fazer as alterações necessárias.</mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

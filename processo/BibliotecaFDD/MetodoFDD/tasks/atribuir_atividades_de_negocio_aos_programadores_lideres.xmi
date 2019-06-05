@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-X_xJdVxh0ovMv3kSvjsuYg" name=",_ybwdIFiZEemAC7bsSm7g_g" guid="-X_xJdVxh0ovMv3kSvjsuYg" changeDate="2019-04-06T15:54:03.852-0300">
+  <mainDescription>&lt;p>&#xD;
+    A equipe de planejamento deve atribuir programadores líderes como proprietários de atividades de negócio.&lt;br />&#xD;
+    A atribuição é baseada em:&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;br />&#xD;
+    • Sequência de desenvolvimento;&lt;br />&#xD;
+    • Dependências entre as funcionalidades em termos de classes envolvidas;&lt;br />&#xD;
+    • Distribuição da carga de trabalho entre os proprietários das classes (lembrar que os programadores líderes também são&#xD;
+    proprietários de classes);&lt;br />&#xD;
+    • Complexidade das funcionalidades a serem implementadas.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

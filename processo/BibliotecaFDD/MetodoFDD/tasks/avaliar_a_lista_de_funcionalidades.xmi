@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-hf75NsId_xGGliK6ocDHAA" name=",_ojCrkFiZEemAC7bsSm7g_g" guid="-hf75NsId_xGGliK6ocDHAA" changeDate="2019-04-10T04:00:17.019-0300">
+  <mainDescription>&lt;p>&#xD;
+    Realiza-se uma auto-avaliação antes da lista ser apresentada para o cliente, através da participação ativa dos membros&#xD;
+    da equipe de modelagem. Logo após, uma segunda avaliação é feita pedindo-se aos clientes que confirmem ou esclareçam as&#xD;
+    questões que afetam a lista de funcionalidades.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

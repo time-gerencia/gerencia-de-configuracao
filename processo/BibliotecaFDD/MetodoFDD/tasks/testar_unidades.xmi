@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-zOj60teMv7YCjX8hnGkHNw" name=",_Zotk0FiaEemAC7bsSm7g_g" guid="-zOj60teMv7YCjX8hnGkHNw" changeDate="2019-04-06T16:13:23.130-0300">
+  <mainDescription>Os proprietários de classes testam seus códigos para certificar que todos os requisitos de suas classes foram satisfeitos.&#xD;
+O programador líder determina quais testes de unidade no nível da equipe de funcionalidades são necessários. Isto é, se&#xD;
+algum teste envolvendo as classes desenvolvidas para esta funcionalidade é exigido. Logo após, o(s)&amp;nbsp;programador(es)&#xD;
+líder(es) realiz(am) testes para confimar se o código está agindo como deveria, incluindo a inspeção do código, que deve se&#xD;
+dar tanto na estrutura do código, quanto organização e execução.</mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

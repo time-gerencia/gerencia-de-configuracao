@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma:DeliveryProcessDescription xmi:id="-rrcGfav0JauTGddXqJEHvA" name="ProcessoFDD,_jX_kkVGqEem7auw6ruu6PQ" guid="-rrcGfav0JauTGddXqJEHvA">
+    <mainDescription>&lt;p>&#xD;
+    O processo desenvolvido é baseado no &lt;strong>FDD - “Feature Driven Development”&lt;/strong>, que possui características&#xD;
+    dos processos e metodologias incremental, Scrum e também do XP realizando uma adaptação das mesmas.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    O FDD busca o desenvolvimento por funcionalidade, ou seja, por um requisito funcional do sistema. É prático para o&#xD;
+    trabalho com projetos iniciais ou projetos com codificações existentes. Apesar de ter algumas diferenças entre o FDD e&#xD;
+    o XP, é possível utilizar as melhores práticas de cada metodologia. O FDD atua muito bem em conjunto com o Scrum, pois&#xD;
+    o Scrum atua no foco do gerenciamento do projeto e o FDD atua no processo de desenvolvimento.&lt;br />&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;strong>O FDD possui cinco processos básicos:&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Desenvolvimento de modelo abrangente (Análise orientada por objetos)&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Construção de lista de funcionalidades (Decomposição funcional)&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Planejar por funcionalidade (Planejamento incremental)&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Detalhe por funcionalidade (Desenho orientado a objetos);&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Construção por funcionalidade (Programação e teste orientado a objetos).&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;br />&#xD;
+&lt;p>&#xD;
+    - Estrutura do FDD:&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Nesta figura podemos observar um diagrama que representa o processo FDD.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;img style=&quot;HEIGHT: 361px; WIDTH: 661px&quot; alt=&quot;FDD&quot; src=&quot;./resources/fdd.jpg&quot; width=&quot;523&quot; height=&quot;288&quot; />&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Diagrama BPMN 1&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Este primeiro diagrama BPMN representa o processo que foi desenvolvido por nosso grupo, de uma visão mais modular, pois&#xD;
+    podemos observar melhor as fases.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &amp;nbsp;&lt;img style=&quot;HEIGHT: 293px; WIDTH: 310px&quot; alt=&quot;BPMN1&quot; src=&quot;./resources/diagram%20(2).svg&quot; width=&quot;200&quot;&#xD;
+    height=&quot;200&quot; />&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Diagrama BPMN 2&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Já este segundo digrama BPMN representa o mesmo processo, porém em uma representação mais linear.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;img style=&quot;HEIGHT: 326px; WIDTH: 370px&quot; alt=&quot;BPMN2&quot; src=&quot;./resources/diagram%20(3).svg&quot; width=&quot;200&quot; height=&quot;200&quot; />&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;br />&#xD;
+    &amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;strong>Observações importantes:&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Toda a gerência de configuração, bem como os procedimentos adotados para versionamento estão no guideline:&#xD;
+        Gerência da Configuração&lt;/strong>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+  </org.eclipse.epf.uma:DeliveryProcessDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-0hfngUt8xmkjFXlhnWO7aA" name="clientes,_8qLYoVn8Eem7LvpA71KceA" guid="-0hfngUt8xmkjFXlhnWO7aA">
+    <refinedDescription>São os interessados pelo projeto, os quais fizeram a encomenda do software e/ou os que irão adquir quando o software&#xD;
+estiver disponível.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-BL75V_0hTmDlUYu9PcgZkg" name="formar_equipe_de_modelagem,__nzAUFn8Eem7LvpA71KceA" guid="-BL75V_0hTmDlUYu9PcgZkg">
+    <refinedDescription>É feito um rodízio com os outros integrantes do projeto através das sessões de modelagem, de modo que todo mundo tenha a&#xD;
+chance de participar e ver o processo em ação.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-JUHFdaVJFhE6jYVm0uaqYg" name="gerente_de_projetos,__nzAUVn8Eem7LvpA71KceA" guid="-JUHFdaVJFhE6jYVm0uaqYg">
+    <refinedDescription>É&amp;nbsp;o líder administrativo e financeiro do projeto: tem a palavra final no que se trata de escopo, cronograma e recursos&#xD;
+do projeto.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-mcbU1hNh-FRansRTjrW2uA" name="estudar_o_dominio,_EgOu4Fn9Eem7LvpA71KceA" guid="-mcbU1hNh-FRansRTjrW2uA">
+    <refinedDescription>Os clientes&amp;nbsp;apresentam uma visão geral da área do domínio que será modelada. Essa apresentação deve também incluir&#xD;
+informação que estiver relacionada a esta área do domínio, mas não necessariamente uma parte de sua implementação.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-Y7_Ux2Blt86h1y1SrR4y6A" name="equipe_de_modelagem,_EgOu4Vn9Eem7LvpA71KceA" guid="-Y7_Ux2Blt86h1y1SrR4y6A">
+    <refinedDescription>A equipe de modelagem é composta de membros permanentes das áreas do domínio do negócio e de desenvolvimento,&#xD;
+especificamente os especialistas no domínio e os programadores líderes.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-HHyygxz55hzJNRJ57Pf5UQ" name="propor_um_modelo_base,_GJ-T4Fn9Eem7LvpA71KceA" guid="-HHyygxz55hzJNRJ57Pf5UQ">
+    <refinedDescription>O arquiteto propõe&amp;nbsp;um modelo base para facilitar o progresso das equipes.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-XSjLhXQE0TRHq_eT9ZUMKg" name="arquiteto,_GJ-T4Vn9Eem7LvpA71KceA" guid="-XSjLhXQE0TRHq_eT9ZUMKg">
+    <refinedDescription>&lt;p>&#xD;
+    É responsável pela modelagem do projeto. Deve conduzir as sessões de modelagem de forma que a equipe de desenvolvedores&#xD;
+    possam contribuir na construção do sistema.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-igghu10lVeemd_TMiZFMGQ" name="desenvolver_o_modelo,_HhYLsFn9Eem7LvpA71KceA" guid="-igghu10lVeemd_TMiZFMGQ">
+    <refinedDescription>Formando grupos com não mais de três componentes, cada pequeno grupo comporá um modelo que suporte a área do domínio,&#xD;
+utilizando o modelo base.&amp;nbsp;Um membro de cada grupo apresenta o modelo proposto por seu grupo para a área do domínio. A&#xD;
+equipe de modelagem seleciona um modelo proposto ou compõe um modelo pela combinação das idéias propostas nos modelos&#xD;
+apresentados.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-QAT0sPdaThf61DK1DJ7qpw" name="avaliar_o_modelo,_I5oYEFn9Eem7LvpA71KceA" guid="-QAT0sPdaThf61DK1DJ7qpw">
+    <refinedDescription>Realiza-se uma&amp;nbsp;avaliação&amp;nbsp;com participação ativa dos clientes. Quando necessária, uma avaliação mais interna pode&#xD;
+ser feita pedindo-se ao&amp;nbsp;arquiteto e ao gerente de projetos&amp;nbsp;que confirme ou esclareça as questões que afetam o&#xD;
+modelo.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-ljEZiM4Isj0FZU7C8Oqgbw" name="aprovar_o_modelo,_N48KsFn9Eem7LvpA71KceA" guid="-ljEZiM4Isj0FZU7C8Oqgbw">
+    <refinedDescription>O cliente deve observar os pontos da avaliação e fornecer a sua aprovação do modelo. Caso o mesmo seja aprovado, o cliente&#xD;
+irá resaltar alguns pontos que devem ser avalisados com mais cautela, caso contrário deverá esclarecer e a equipe voltará a&#xD;
+desenvolver o modelo.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-q8y82yXMRAaMjHFYRalsNg" name="esclarecer_questoes,_PL1V8Fn9Eem7LvpA71KceA" guid="-q8y82yXMRAaMjHFYRalsNg">
+    <refinedDescription>O cliente deve resaltar pontos importas para o projeto, para que assim a equipe possa fazer as alterações necessárias.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-WisuWWH_T-xK1utY19GT5g" name="comentar_o_modelo,_P-I8oFn9Eem7LvpA71KceA" guid="-WisuWWH_T-xK1utY19GT5g">
+    <refinedDescription>O cliente comenta quais são os pontos mais importantes para o projeto a partir de seu ponto de vista.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-GWVBaIAc1FTJ7pYDPLS6LQ" name="construir_a_lista_de_funcionalidades,_lGNikFn9Eem7LvpA71KceA" guid="-GWVBaIAc1FTJ7pYDPLS6LQ">
+    <keyConsiderations>Exemplos: calcular o total de uma venda, calcular a quantidade total vendida por um varejista para uma descrição de&#xD;
+produto. As funcionalidades são granulares de acordo com a regra de que uma funcionalidade não levará mais do que duas&#xD;
+semanas para ser completada, mas não tão granulares ao nível de “getters” e “setters” (os métodos de acesso aos atributos&#xD;
+de uma classe). Duas semanas são um limite superior; a maioria das funcionalidades&lt;br />&#xD;
+leva muito menos tempo do que isso. Quando um passo de uma atividade de negócio parece maior do que duas semanas, o passo é&#xD;
+quebrado em passos menores, que então tornam-se funcionalidades.</keyConsiderations>
+    <refinedDescription>&lt;p>&#xD;
+    A equipe deve identificar o conjunto de funcionalidades usando o conhecimento adquirido na primeira etapa. Esta é&#xD;
+    simplesmente uma decomposição funcional nas áreas definidas a partir da divisão do domínio pelos especialistas em cada&#xD;
+    domínio nos diversos estudos dirigidos realizados na primeira etapa. Ela é decomposta em áreas que englobam atividades&#xD;
+    de negócio, que são, por sua vez, decompostas em passos (funcionalidades). As funcionalidades são funções granulares,&#xD;
+    expressas em termos que possuem valor para o cliente, usando o seguinte modelo de nomeação:&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;br />&#xD;
+    &amp;lt;ação&amp;gt; &amp;lt;resultado&amp;gt; &amp;lt;objeto&amp;gt;&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-ksqZCrxZgNPibYQABv_eDg" name="equipe_de_funcionalidade,_lGNikVn9Eem7LvpA71KceA" guid="-ksqZCrxZgNPibYQABv_eDg">
+    <refinedDescription>&lt;p>&#xD;
+    É composta por desenvolvedores (proprietários de classes) identificado pelos programadores líderes.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-kdqD3nojRlTSTFe04XF-Pg" name="avaliar_a_lista_de_funcionalidades,_mbEcsFn9Eem7LvpA71KceA" guid="-kdqD3nojRlTSTFe04XF-Pg">
+    <refinedDescription>&lt;p>&#xD;
+    Realiza-se uma auto-avaliação antes da lista ser apresentada para o cliente, através da participação ativa dos membros&#xD;
+    da equipe de modelagem. Logo após, uma segunda avaliação é feita pedindo-se aos clientes que confirmem ou esclareçam as&#xD;
+    questões que afetam a lista de funcionalidades.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-39EcqzKMbdYE3Md4ZZlMwg" name="clientes,_mbEcsVn9Eem7LvpA71KceA" guid="-39EcqzKMbdYE3Md4ZZlMwg">
+    <refinedDescription>São os interessados pelo projeto, os quais fizeram a encomenda do software e/ou os que irão adquir quando o software&#xD;
+estiver disponível.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-YgNOSZWptcnCMu0wzmjxbQ" name="determinar_sequencia_de_desenvolvimento,_o6lMEFn9Eem7LvpA71KceA" guid="-YgNOSZWptcnCMu0wzmjxbQ">
+    <refinedDescription>&lt;p>&#xD;
+    A equipe de planejamento deve atribuir uma data (mês e ano apenas) para o término de cada atividade de negócio. A&#xD;
+    identificação da atividade de negócio e a data de término (e dessa forma a seqüência de desenvolvimento) é baseada&#xD;
+    em:&lt;br />&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    • Dependências entre as funcionalidades em termos de classes envolvidas;&lt;br />&#xD;
+    • Distribuição da carga de trabalho entre os proprietários das classes;&lt;br />&#xD;
+    • Complexidade das funcionalidades a serem implementadas;&lt;br />&#xD;
+    • Adiantamento das atividades de negócio de alto risco ou complexidade;&lt;br />&#xD;
+    • Consideração de qualquer marco externo (visível) do projeto, como versões “beta”, demonstrações,&lt;br />&#xD;
+    pontos de verificação e “todos os produtos” que satisfaçam tais marcos.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-ffYrTAXXNEj_5qu7z1JPlg" name="equipe_de_planejamento,_o6lMEVn9Eem7LvpA71KceA" guid="-ffYrTAXXNEj_5qu7z1JPlg">
+    <refinedDescription>A equipe de planejamento é composta pelo gerente de desenvolvimento e pelos programadores líderes.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-eiQc84f0BDFKdwGlX2-cfg" name="atribuir_atividades_de_negocio_aos_programadores_lideres,_qmBaMFn9Eem7LvpA71KceA" guid="-eiQc84f0BDFKdwGlX2-cfg">
+    <refinedDescription>&lt;p>&#xD;
+    A equipe de planejamento deve atribuir programadores líderes como proprietários de atividades de negócio.&lt;br />&#xD;
+    A atribuição é baseada em:&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;br />&#xD;
+    • Sequência de desenvolvimento;&lt;br />&#xD;
+    • Dependências entre as funcionalidades em termos de classes envolvidas;&lt;br />&#xD;
+    • Distribuição da carga de trabalho entre os proprietários das classes (lembrar que os programadores líderes também são&#xD;
+    proprietários de classes);&lt;br />&#xD;
+    • Complexidade das funcionalidades a serem implementadas.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-oIc_r03_eSyS-oSaBcz5FQ" name="atribuir_classes_aos_desenvolvedores,_x5fAwFn9Eem7LvpA71KceA" guid="-oIc_r03_eSyS-oSaBcz5FQ">
+    <refinedDescription>&lt;p>&#xD;
+    A equipe de planejamento deve atribuir desenvolvedores como proprietários de classes. Os desenvolvedores são&#xD;
+    proprietários de várias classes, que em conjunto são chamados de equipe de funcionalidades. A atribuição das classes&#xD;
+    aos desenvolvedores é baseada em:&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;br />&#xD;
+    • Distribuição da carga de trabalho entre os desenvolvedores;&lt;br />&#xD;
+    • Complexidade das classes;&lt;br />&#xD;
+    • Uso das classes (ex. alta utilização);&lt;br />&#xD;
+    • Sequência de desenvolvimento.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-1wIYwLTDXpqrzHzzWilvcw" name="avaliar,_y2gCoFn9Eem7LvpA71KceA" guid="-1wIYwLTDXpqrzHzzWilvcw">
+    <refinedDescription>Realiza-se uma avaliação pela participação ativa dos programadores líderes e&amp;nbsp;gerente de projeto.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-nZ19KJVZ2BUEASHBfq1UQw" name="gerente_de_projetos,_y2gCoVn9Eem7LvpA71KceA" guid="-nZ19KJVZ2BUEASHBfq1UQw">
+    <refinedDescription>É&amp;nbsp;o líder administrativo e financeiro do projeto: tem a palavra final no que se trata de escopo, cronograma e recursos&#xD;
+do projeto.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-Yq3A4-BYxa9EsJeDWP5fNw" name="programador_lider,_y2gCo1n9Eem7LvpA71KceA" guid="-Yq3A4-BYxa9EsJeDWP5fNw">
+    <refinedDescription>É&amp;nbsp;o líder (chefe)&amp;nbsp;dos pequenos times de análise, modelagem e desenvolvimento de novas funcionalidades.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-NcSkolCb8_oG9HzN4qEgzw" name="desenvolver_os_diagramas_de_sequencia,_2JgEcFn9Eem7LvpA71KceA" guid="-NcSkolCb8_oG9HzN4qEgzw">
+    <refinedDescription>Desenvolver o(s) diagrama(s) de sequência necessário(s) para a funcionalidade a ser projetada. Os arquivos do(s)&#xD;
+diagrama(s) devem ser submetidos ao sistema de controle de versões. Quaisquer projetos (designs) alternativos, decisões de&#xD;
+projeto, esclarecimentos de requisitos e comentários também são registrados e descritos na seção de alternativas de projeto&#xD;
+(design) do Pacote de Projeto (Design).</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-9u96dpObMDvcVl-gNB8fqA" name="equipe_de_planejamento,_2JgEcVn9Eem7LvpA71KceA" guid="-9u96dpObMDvcVl-gNB8fqA">
+    <refinedDescription>A equipe de planejamento é composta pelo gerente de desenvolvimento e pelos programadores líderes.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-kdJkqb746ULWx05iixS5Bg" name="refinar_o_modelo_de_objetos,_3gvkMFn9Eem7LvpA71KceA" guid="-kdJkqb746ULWx05iixS5Bg">
+    <refinedDescription>O programador líder cria uma área para a equipe de funcionalidades para a(s) funcionalidade(s). Esta área pode ser um&#xD;
+diretório em um servidor de arquivos ou um diretório em seus próprios computadores, que são copiados para o servidor pelo&#xD;
+programador líder quando necessário, ou utiliza-se uma área de trabalho fornecida pelo sistema de controle de versões. O&#xD;
+propósito da área da equipe de funcionalidades é para que o trabalho em andamento possa ser compartilhado e estar visível&#xD;
+pelos membros da equipe de funcionalidades, mas invisível para o resto do projeto.&lt;br />&#xD;
+O programador líder refina o modelo para adicionar novas classes, métodos, atributos e/ou fazer alterações aos já&#xD;
+existentes, baseado no(s) diagrama(s) de seqüência definido(s) para a(s) funcionalidade(s). Isto resulta na atualização dos&#xD;
+arquivos fontes da linguagem de implementação na área da equipe de funcionalidades. O programador líder cria diagramas do&#xD;
+modelo num formato publicável. Esses arquivos devem ser submetidos ao sistema de controle de versões e publicados na&#xD;
+intranet do projeto.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-HbYJHRVcZmhUXC3vzwYCMQ" name="programador_lider,_3gvkMVn9Eem7LvpA71KceA" guid="-HbYJHRVcZmhUXC3vzwYCMQ">
+    <refinedDescription>É&amp;nbsp;o líder (chefe)&amp;nbsp;dos pequenos times de análise, modelagem e desenvolvimento de novas funcionalidades.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-jXd5eJ_epQ2EIgA9aDKd-g" name="desenvolver_prefacios_de_classes_e_metodos,_4hOJwFn9Eem7LvpA71KceA" guid="-jXd5eJ_epQ2EIgA9aDKd-g">
+    <refinedDescription>Utilizando os arquivos fontes da linguagem de implementação atualizados pela atividade “Refinar o Modelo de Objetos”, que&#xD;
+estão na área da equipe de funcionalidades, o proprietário da classes escreve os prefácios de classe e métodos para cada&#xD;
+item definido pela funcionalidade e pelo(s) diagrama(s) de seqüência. Isto inclui tipos de parâmetros, tipos de retorno,&#xD;
+exceções e mensagens. Uma vez que cada desenvolvedor completou sua tarefa, o programador líder gera a documentação da API&#xD;
+usando sua ferramenta e a submete para publicação na intranet do projeto.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-UJH9tDxTjHBf_i-zunMsVg" name="equipe_de_funcionalidade,_4hOJwVn9Eem7LvpA71KceA" guid="-UJH9tDxTjHBf_i-zunMsVg">
+    <refinedDescription>&lt;p>&#xD;
+    É composta por desenvolvedores (proprietários de classes) identificado pelos programadores líderes.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-c4abtaILHa-GrVCSb8kzjg" name="inspecao_do_projeto_design,_5iO60Fn9Eem7LvpA71KceA" guid="-c4abtaILHa-GrVCSb8kzjg">
+    <refinedDescription>Realiza-se uma inspeção no projeto (design) com os membros da equipe de funcionalidades ou com outros membros do projeto. A&#xD;
+decisão de inspecionar com a equipe de funcionalidades ou com outros membros do projeto cabe ao programador líder. O&#xD;
+programador líder também deve&lt;br />&#xD;
+combinar as alterações da área compartilhada pela equipe de funcionalidades de volta ao sistema de controle de versões.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-cXxNLdjmgeztaCjNk-nbKg" name="implementar_classes_e_metodos,_8LrpUFn9Eem7LvpA71KceA" guid="-cXxNLdjmgeztaCjNk-nbKg">
+    <refinedDescription>Os proprietários de classes implementam os itens necessários para satisfazer aos requisitos de suas classes para esta&#xD;
+funcionalidade.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-5RphpiwUg88Qqvx5n5WOAg" name="equipe_de_funcionalidade,_8LrpUVn9Eem7LvpA71KceA" guid="-5RphpiwUg88Qqvx5n5WOAg">
+    <refinedDescription>&lt;p>&#xD;
+    É composta por desenvolvedores (proprietários de classes) identificado pelos programadores líderes.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-XrZlEiaJrlCj8Yme0UajMw" name="inspecionar_o_codigo,_88wg8Fn9Eem7LvpA71KceA" guid="-XrZlEiaJrlCj8Yme0UajMw">
+    <refinedDescription>Uma inspeção no código, com membros da equipe de funcionalidades, é realizada antes do teste de unidade.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-_KRNiJMwYYsVRZbFjU8C9A" name="testar_unidades,_9wjVYFn9Eem7LvpA71KceA" guid="-_KRNiJMwYYsVRZbFjU8C9A">
+    <refinedDescription>Os proprietários de classes testam seus códigos para certificar que todos os requisitos de suas classes foram satisfeitos.&#xD;
+O programador líder determina quais testes de unidade no nível da equipe de funcionalidades são necessários. Isto é, se&#xD;
+algum teste envolvendo as classes desenvolvidas para esta funcionalidade é exigido. Logo após, o(s)&amp;nbsp;programador(es)&#xD;
+líder(es) realiz(am) testes para confimar se o código está agindo como deveria, incluindo a inspeção do código, que deve se&#xD;
+dar tanto na estrutura do código, quanto organização e execução.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-zF-oNu4aiOFxQK1DLOYTFg" name="programador_lider,_9wjVYVn9Eem7LvpA71KceA" guid="-zF-oNu4aiOFxQK1DLOYTFg">
+    <refinedDescription>É&amp;nbsp;o líder (chefe)&amp;nbsp;dos pequenos times de análise, modelagem e desenvolvimento de novas funcionalidades.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-V6-BcidL_ppbEHO_BThiZg" name="promover_a_versao_atual_build,_-08xoFn9Eem7LvpA71KceA" guid="-V6-BcidL_ppbEHO_BThiZg">
+    <refinedDescription>As classes somente podem ser promovidas para a versão atual (build) após uma inspeção de código com sucesso, que é&#xD;
+realizado no teste de unidades. O programador líder monitora as classes sendo promovidas individualmente, através de&#xD;
+informações dos desenvolvedores, e é o ponto de integração para a funcionalidade inteira.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+</xmi:XMI>

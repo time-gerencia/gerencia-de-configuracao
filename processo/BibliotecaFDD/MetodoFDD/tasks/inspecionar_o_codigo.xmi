@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-eOAhYtXkqpB1tOSf_myBdA" name=",_WZrdAFiaEemAC7bsSm7g_g" guid="-eOAhYtXkqpB1tOSf_myBdA" changeDate="2019-04-06T16:13:07.408-0300">
+  <mainDescription>Uma inspeção no código, com membros da equipe de funcionalidades, é realizada antes do teste de unidade.</mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

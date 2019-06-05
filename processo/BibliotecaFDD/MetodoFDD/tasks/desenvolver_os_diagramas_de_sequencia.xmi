@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-0OYW5ejU1xewfTR2iCXfxA" name=",_AMg3QFiaEemAC7bsSm7g_g" guid="-0OYW5ejU1xewfTR2iCXfxA" changeDate="2019-04-06T16:02:00.274-0300">
+  <mainDescription>Desenvolver o(s) diagrama(s) de sequência necessário(s) para a funcionalidade a ser projetada. Os arquivos do(s)&#xD;
+diagrama(s) devem ser submetidos ao sistema de controle de versões. Quaisquer projetos (designs) alternativos, decisões de&#xD;
+projeto, esclarecimentos de requisitos e comentários também são registrados e descritos na seção de alternativas de projeto&#xD;
+(design) do Pacote de Projeto (Design).</mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

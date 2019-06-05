@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-kYdhloYazkG78VZFj59cBA" name="programador_lider,_NJuucFGxEem7auw6ruu6PQ" guid="-kYdhloYazkG78VZFj59cBA" changeDate="2019-04-06T16:44:31.584-0300">
+  <mainDescription>É&amp;nbsp;o líder (chefe)&amp;nbsp;dos pequenos times de análise, modelagem e desenvolvimento de novas funcionalidades.</mainDescription>
+</org.eclipse.epf.uma:RoleDescription>

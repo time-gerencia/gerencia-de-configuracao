@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Bziz_JcDTHkuXbwVpbU3cA" name=",_R6bf8FiZEemAC7bsSm7g_g" guid="-Bziz_JcDTHkuXbwVpbU3cA" changeDate="2019-04-06T13:32:46.927-0300">
+  <mainDescription>Os clientes&amp;nbsp;apresentam uma visão geral da área do domínio que será modelada. Essa apresentação deve também incluir&#xD;
+informação que estiver relacionada a esta área do domínio, mas não necessariamente uma parte de sua implementação.</mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

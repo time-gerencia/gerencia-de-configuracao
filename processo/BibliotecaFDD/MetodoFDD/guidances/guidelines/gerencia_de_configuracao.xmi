@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-iFSNGun9w0DlSWJMRSsjWw" name="new_guideline,_6VQukIKfEem40OoImZ_ifg" guid="-iFSNGun9w0DlSWJMRSsjWw" changeDate="2019-05-30T03:11:15.136-0300">
+  <mainDescription>&lt;p>&#xD;
+    Este guideline tem como objetivo definir os parametros que devem ser seguidos no projeto para toda a gerência de&#xD;
+    configuração.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Casos a parte, ou seja, que se diferem deste guideline, serão tratados diretamente em sua atividades.&#xD;
+&lt;/p>&#xD;
+&lt;br />&#xD;
+&lt;p>&#xD;
+    O projeto utilizará o git como ferramenta de versionamento e também o GitHub como repositório remoto, o qual pode ser&#xD;
+    acessado por meio neste link: &lt;a href=&quot;https://github.com/MateusKawazoe/Ger-ncia-de-Configura-o&quot;&#xD;
+    target=&quot;_blank&quot;>https://github.com/MateusKawazoe/Ger-ncia-de-Configura-o&lt;/a> .&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

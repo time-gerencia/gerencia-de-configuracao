@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-uechs-SpkCfbJkf-lg57Cg" name=",_sH3dMFiZEemAC7bsSm7g_g" guid="-uechs-SpkCfbJkf-lg57Cg" changeDate="2019-04-06T15:53:11.738-0300">
+  <mainDescription>&lt;p>&#xD;
+    A equipe de planejamento deve atribuir uma data (mês e ano apenas) para o término de cada atividade de negócio. A&#xD;
+    identificação da atividade de negócio e a data de término (e dessa forma a seqüência de desenvolvimento) é baseada&#xD;
+    em:&lt;br />&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    • Dependências entre as funcionalidades em termos de classes envolvidas;&lt;br />&#xD;
+    • Distribuição da carga de trabalho entre os proprietários das classes;&lt;br />&#xD;
+    • Complexidade das funcionalidades a serem implementadas;&lt;br />&#xD;
+    • Adiantamento das atividades de negócio de alto risco ou complexidade;&lt;br />&#xD;
+    • Consideração de qualquer marco externo (visível) do projeto, como versões “beta”, demonstrações,&lt;br />&#xD;
+    pontos de verificação e “todos os produtos” que satisfaçam tais marcos.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

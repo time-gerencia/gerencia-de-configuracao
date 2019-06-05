@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-UcvNJyEQfnLpveEDEoRuMw" name="equipe_de_plnanejamento,_PEdVwFGxEem7auw6ruu6PQ" guid="-UcvNJyEQfnLpveEDEoRuMw" changeDate="2019-04-06T16:43:37.833-0300">
+  <mainDescription>A equipe de planejamento é composta pelo gerente de desenvolvimento e pelos programadores líderes.</mainDescription>
+</org.eclipse.epf.uma:RoleDescription>

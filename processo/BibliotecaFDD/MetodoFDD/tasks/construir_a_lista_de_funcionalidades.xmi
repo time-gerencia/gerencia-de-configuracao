@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-BmM6dHeFeySniDtdGpGAlg" name=",_mB0E8FiZEemAC7bsSm7g_g" guid="-BmM6dHeFeySniDtdGpGAlg" changeDate="2019-04-06T13:52:19.318-0300">
+  <mainDescription>&lt;p>&#xD;
+    A equipe deve identificar o conjunto de funcionalidades usando o conhecimento adquirido na primeira etapa. Esta é&#xD;
+    simplesmente uma decomposição funcional nas áreas definidas a partir da divisão do domínio pelos especialistas em cada&#xD;
+    domínio nos diversos estudos dirigidos realizados na primeira etapa. Ela é decomposta em áreas que englobam atividades&#xD;
+    de negócio, que são, por sua vez, decompostas em passos (funcionalidades). As funcionalidades são funções granulares,&#xD;
+    expressas em termos que possuem valor para o cliente, usando o seguinte modelo de nomeação:&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;br />&#xD;
+    &amp;lt;ação&amp;gt; &amp;lt;resultado&amp;gt; &amp;lt;objeto&amp;gt;&#xD;
+&lt;/p></mainDescription>
+  <keyConsiderations>Exemplos: calcular o total de uma venda, calcular a quantidade total vendida por um varejista para uma descrição de&#xD;
+produto. As funcionalidades são granulares de acordo com a regra de que uma funcionalidade não levará mais do que duas&#xD;
+semanas para ser completada, mas não tão granulares ao nível de “getters” e “setters” (os métodos de acesso aos atributos&#xD;
+de uma classe). Duas semanas são um limite superior; a maioria das funcionalidades&lt;br />&#xD;
+leva muito menos tempo do que isso. Quando um passo de uma atividade de negócio parece maior do que duas semanas, o passo é&#xD;
+quebrado em passos menores, que então tornam-se funcionalidades.</keyConsiderations>
+</org.eclipse.epf.uma:TaskDescription>

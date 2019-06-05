@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-LiwHqn0J1O0eZqSt3j2vAw" name=",_FrN7oFiaEemAC7bsSm7g_g" guid="-LiwHqn0J1O0eZqSt3j2vAw">
+  <mainDescription>Utilizando os arquivos fontes da linguagem de implementação atualizados pela atividade “Refinar o Modelo de Objetos”, que&#xD;
+estão na área da equipe de funcionalidades, o proprietário da classes escreve os prefácios de classe e métodos para cada&#xD;
+item definido pela funcionalidade e pelo(s) diagrama(s) de seqüência. Isto inclui tipos de parâmetros, tipos de retorno,&#xD;
+exceções e mensagens. Uma vez que cada desenvolvedor completou sua tarefa, o programador líder gera a documentação da API&#xD;
+usando sua ferramenta e a submete para publicação na intranet do projeto.</mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

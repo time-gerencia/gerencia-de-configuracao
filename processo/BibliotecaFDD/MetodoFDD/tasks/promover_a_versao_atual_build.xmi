@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-WUsCYJF77wfSv3zLimh4hA" name=",_bP8oYFiaEemAC7bsSm7g_g" guid="-WUsCYJF77wfSv3zLimh4hA" changeDate="2019-04-06T16:15:58.667-0300">
+  <mainDescription>As classes somente podem ser promovidas para a versão atual (build) após uma inspeção de código com sucesso, que é&#xD;
+realizado no teste de unidades. O programador líder monitora as classes sendo promovidas individualmente, através de&#xD;
+informações dos desenvolvedores, e é o ponto de integração para a funcionalidade inteira.</mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

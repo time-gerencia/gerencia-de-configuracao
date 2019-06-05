@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-GXJh0KMcxQ-s9dFh7s3SHQ" name=",_Rr-XwFiaEemAC7bsSm7g_g" guid="-GXJh0KMcxQ-s9dFh7s3SHQ">
+  <mainDescription>Os proprietários de classes implementam os itens necessários para satisfazer aos requisitos de suas classes para esta&#xD;
+funcionalidade.</mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

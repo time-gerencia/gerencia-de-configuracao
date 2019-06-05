@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-mgJnr2Vsk2-LYz9ZN34bng" name=",_2AiygFiZEemAC7bsSm7g_g" guid="-mgJnr2Vsk2-LYz9ZN34bng" changeDate="2019-04-06T15:54:45.392-0300">
+  <mainDescription>&lt;p>&#xD;
+    A equipe de planejamento deve atribuir desenvolvedores como proprietários de classes. Os desenvolvedores são&#xD;
+    proprietários de várias classes, que em conjunto são chamados de equipe de funcionalidades. A atribuição das classes&#xD;
+    aos desenvolvedores é baseada em:&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;br />&#xD;
+    • Distribuição da carga de trabalho entre os desenvolvedores;&lt;br />&#xD;
+    • Complexidade das classes;&lt;br />&#xD;
+    • Uso das classes (ex. alta utilização);&lt;br />&#xD;
+    • Sequência de desenvolvimento.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-n87IyED9CQKZnw4NcsHbRQ" name=",_XVCHcFiZEemAC7bsSm7g_g" guid="-n87IyED9CQKZnw4NcsHbRQ" changeDate="2019-04-06T13:38:06.488-0300">
+  <mainDescription>Formando grupos com não mais de três componentes, cada pequeno grupo comporá um modelo que suporte a área do domínio,&#xD;
+utilizando o modelo base.&amp;nbsp;Um membro de cada grupo apresenta o modelo proposto por seu grupo para a área do domínio. A&#xD;
+equipe de modelagem seleciona um modelo proposto ou compõe um modelo pela combinação das idéias propostas nos modelos&#xD;
+apresentados.</mainDescription>
+</org.eclipse.epf.uma:TaskDescription>
