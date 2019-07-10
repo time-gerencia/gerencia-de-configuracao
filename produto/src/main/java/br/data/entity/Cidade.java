@@ -36,6 +36,8 @@ public class Cidade implements Serializable {
     @Column(name = "nome")
     private String nome;
 
+    private String error;
+    
     public Cidade() {
     }
 
@@ -57,6 +59,14 @@ public class Cidade implements Serializable {
 
     public void setNome(String nome) {
         this.nome = nome;
+    }
+    
+     public String getError() {
+        return error;
+    }
+
+    public void setError(String error) {
+        this.error = error;
     }
 
     @Override

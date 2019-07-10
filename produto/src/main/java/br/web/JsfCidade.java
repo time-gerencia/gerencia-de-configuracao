@@ -23,15 +23,24 @@ public class JsfCidade implements Serializable {
     public JsfCidade() {
     }
     
-    private int codigo;
+    private Integer codigo;
     private String nome;
-
+    private String error;
+    
     public int getCodigo() {
         return codigo;
     }
 
     public void setCodigo(int codigo) {
         this.codigo = codigo;
+    }
+    
+    public String getError() {
+        return error;
+    }
+
+    public void setError(String error) {
+        this.error = error;
     }
 
     public String getNome() {
@@ -44,9 +53,21 @@ public class JsfCidade implements Serializable {
     
     public void persist(){
         br.data.entity.Cidade cid = new br.data.entity.Cidade();
+        try{
+            if(codigo == 0)
+            {
+              throw new Exception("Cidade não pode ter código 0.");  
+            }
+            
         cid.setCodigo(codigo);
         cid.setNome(nome);
         new br.data.crud.CrudCidade().persist(cid);
+        }catch(Exception exp)
+        {
+            cid.setError(exp.getMessage());
+            this.setError(exp.getMessage());
+        }
+        
     }
     
     public java.util.Collection<br.data.entity.Cidade> getAll(){
