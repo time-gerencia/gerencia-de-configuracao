@@ -23,7 +23,7 @@ public class JsfCidade implements Serializable {
     public JsfCidade() {
     }
     
-    private int codigo;
+    private Integer codigo;
     private String nome;
     private String error;
     

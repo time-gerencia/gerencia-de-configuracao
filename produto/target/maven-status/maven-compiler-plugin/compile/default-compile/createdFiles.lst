@@ -2,4 +2,3 @@ br\data\crud\AbstractCrud.class
 br\data\crud\CrudCidade.class
 br\data\entity\Cidade.class
 br\data\crud\EMNames.class
-br\web\JsfCidade.class
